@@ -4,7 +4,7 @@ This data, named"Bridging the gap.nc", bridged the gap between GRACE and GRACE-F
 
 Here is the introduction to the header of reconstruction:
 
-TWSA: Terrestrial water storage anomalies reconstructed from the best model after linear correction
+TWSA: Terrestrial water storage anomalies reconstructed from the best model after linear correction (millimeter)
 
 lon: longitude (degree)
 
