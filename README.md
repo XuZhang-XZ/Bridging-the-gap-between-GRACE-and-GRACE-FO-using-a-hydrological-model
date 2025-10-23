@@ -14,3 +14,7 @@ time: days since 1850-01-01 (Y/M/D) Please note that monthly values represent mo
 
 Please cite orinigial article：Zhang, X. et al. Bridging the gap between GRACE and GRACE-FO using a hydrological model. Science of The Total Environment, 153659, doi:https://doi.org/10.1016/j.scitotenv.2022.153659 (2022).
 
+Frequently Asked Questions
+1. The unit of my reconstruction data is millimeter. Please divide my TWS data by 10 to combine with GRACE TWS products.
+2. The coordinates of my reconstruction need to be aligned with raw GRACE TWS data.
+3. GRACE products, as well as my reconstruction data, are only available for a large region. The native resolution of GRACE TWS is 3x3 degree equal-area, approximately 333*333 km^2.
